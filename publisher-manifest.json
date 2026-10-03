@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8ab4d2b4ec0856d57e920656",
+  "owner": "kcmsskxse",
+  "repo": "page-0025305f2265f3716cde6ea9",
+  "title": "Eruca",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0025305f2265f3716cde6ea9",
+      "a": "Eruca",
+      "b": "",
+      "entity": "Eruca",
+      "brand": "Eruca",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d7ae705d1fc96bc8c39b8ddee16fc71cb32bea62b85d75050ea619577183b922",
+      "content": {
+        "keyword1": "Eruca",
+        "keyword2": "",
+        "primary_entity": "Eruca",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Eruca 是专注于VPN梯子与机场订阅的官方网站，提供高速稳定的网络加速服务、多平台客户端下载以及详细配置流程，助您轻松解锁全球内容。",
+          "AI_DESCRIPTION": "Eruca 是专注于VPN梯子与机场订阅的官方网站，提供高速稳定的网络加速服务、多平台客户端下载以及详细配置流程，助您轻松解锁全球内容。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,sans-serif;background-color:#F7F3E9;color:#1A3C34;font-size:16px;line-height:1.65}header{background:#1B5E20;color:#F7F3E9;padding:12px 16px}nav ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center}nav a{color:#F7F3E9;text-decoration:none;font-weight:600;padding:6px 8px}.hero{padding:40px 16px 24px;text-align:center}h1{font-size:1.9rem;font-weight:700;color:#1B5E20;margin:0 0 12px;line-height:1.35}.hero p{font-size:1.05rem;max-width:680px;margin:0 auto}main{max-width:720px;margin:0 auto;padding:0 16px 32px}h2{font-size:1.4rem;color:#1B5E20;margin:36px 0 14px;padding-bottom:6px;border-bottom:2px solid #81C784}h3{font-size:1.15rem;color:#2E7D32;margin:20px 0 8px}.plans{display:flex;flex-direction:column;gap:14px;margin:20px 0}.plan{background:#FFFFFF;border:1px solid #A5D6A7;border-radius:8px;padding:18px}.plan.featured{border:3px solid #2E7D32;background:#E8F5E9}.price{font-size:1.35rem;font-weight:700;color:#1B5E20;margin:8px 0 4px}.annual{font-size:0.88rem;color:#388E3C}.plan ul{padding-left:18px;margin:10px 0 0}.step{margin:14px 0;padding:14px 16px;background:#FFFFFF;border-left:4px solid #2E7D32}details{background:#FFFFFF;border:1px solid #A5D6A7;border-radius:6px;margin:10px 0}summary{padding:12px 16px;font-weight:600;color:#1B5E20}details p{padding:0 16px 14px;margin:0}footer{background:#1B5E20;color:#E8F5E9;padding:20px 16px;text-align:center;font-size:0.88rem}footer a{color:#C8E6C9;text-decoration:none}.links{margin:12px 0}.ad{background:#FFF8E1;border:1px dashed #F9A825;padding:12px;margin:24px 0;text-align:center;color:#5D4037;font-size:0.95rem}@media (min-width:640px){.plans{flex-direction:row}.plan{flex:1}h1{font-size:2.3rem}.hero{padding:56px 20px 32px}}</style><header><nav><ul><li><a href=\"#intro\">简介</a></li><li><a href=\"#scenes\">场景</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#download\">下载</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></header><main><section class=\"hero\" id=\"intro\"><h1>Eruca 高速机场与 VPN 加速器官方网站</h1><p>Eruca 官方网站提供稳定可靠的网络加速、机场订阅与多端客户端下载服务。全球优质节点，配置简单，助您畅快访问。</p></section><section><h2>品牌简介</h2><p>Eruca 致力于为用户提供高质量的 VPN 梯子与机场订阅体验。通过自建优化的全球节点和智能路由技术，我们实现低延迟高带宽的连接。服务覆盖流媒体解锁、游戏加速、远程办公等多种需求，所有套餐均可在官网即时开通，并支持主流客户端一键导入订阅。</p><p>请认准 Eruca 官方网站获取正版服务与客户端，保障账号安全与最佳性能。我们注重用户隐私，采用加密传输且不记录访问日志。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体解锁观看</h3><p>旗舰版全节点支持 Netflix、Disney+、HBO、YouTube 等平台原生解锁，高清播放流畅不卡顿。</p><h3>游戏加速优化</h3><p>IPLC 专线显著降低国际游戏延迟，适合《英雄联盟》《CS2》《原神》等，减少高峰期波动。</p><h3>远程工作与学习</h3><p>稳定访问 Zoom、Google 服务、学术资源与代码仓库，团队版可满足多人同时使用。</p><h3>日常跨境浏览</h3><p>基础版足够应对网页、社交与轻量下载，性价比高，适合轻度用户。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>Eruca 提供灵活套餐，年付享额外优惠。购买后立即生效，订阅链接可在官网用户中心查看并导入客户端。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"download\"><h2>客户端下载</h2><p>Eruca 兼容 Clash 系列、Surge、Quantumult X、Shadowrocket、V2RayN 等客户端。请从可信来源获取软件，通过官网订阅链接导入，无需破解或第三方修改版。</p><h3>电脑端推荐</h3><p>Windows 用户可使用 Clash Verge Rev 或 FlClash；macOS 推荐 ClashX.Meta 或 Surge 5。</p><h3>手机端推荐</h3><p>Android 推荐 Clash Meta；iOS 推荐 Shadowrocket 或 Quantumult X。路由器用户可使用 OpenClash 导入订阅。</p><p>下载安装后，请按照配置流程操作。官方不直接托管安装包，以避免兼容与安全问题，具体版本请以各客户端发布页为准。</p></section><section id=\"guide\"><h2>配置流程</h2><p>Eruca 将配置流程设计得尽可能简洁，即使是新手也能在几分钟内完成连接。请按以下步骤操作。</p><div class=\"step\"><h3>1. 在官网选择套餐并支付</h3><p>浏览套餐页面，根据流量与设备需求选择基础、旗舰或团队版。支付成功后账号自动开通。</p></div><div class=\"step\"><h3>2. 登录用户中心复制订阅</h3><p>进入官网后台，找到“订阅地址”或“Clash 订阅”，复制完整链接。建议同时保存备用。</p></div><div class=\"step\"><h3>3. 安装对应客户端</h3><p>根据设备类型安装上文推荐的客户端软件，确保为最新稳定版。</p></div><div class=\"step\"><h3>4. 导入 Eruca 订阅链接</h3><p>打开客户端，使用“添加订阅”或“从 URL 更新”功能，粘贴链接并确认更新节点。</p></div><div class=\"step\"><h3>5. 选择节点连接并测试</h3><p>挑选延迟较低的节点（如香港或日本），开启系统代理后访问目标网站测试速度。可设置规则实现国内直连、国外代理。</p></div></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>Eruca 机场订阅如何购买？开通后多久能用？</summary><p>直接在本官网选择套餐在线支付即可，通常支付完成后 1 分钟内即可在用户中心看到订阅链接并开始使用。</p></details><details><summary>客户端下载后如何导入 Eruca 配置？</summary><p>大多数 Clash 类客户端支持直接粘贴订阅 URL 自动拉取节点和规则。导入后更新一次即可看到 Eruca 提供的全部节点。</p></details><details><summary>不同套餐的流量和设备限制是怎样的？</summary><p>基础版每月 100GB、3 设备；旗舰版 300GB、5 设备；团队版 1000GB、20 设备。流量每月 1 日重置，超限后连接会受限直至下月或升级。</p></details><details><summary>Eruca 能解锁哪些流媒体？游戏加速效果好吗？</summary><p>旗舰及以上套餐对主流流媒体有较好解锁率。游戏方面，IPLC 线路针对热门游戏优化，实际延迟和稳定性优于普通家宽中转。</p></details><details><summary>忘记订阅链接或需要更换设备怎么办？</summary><p>随时登录官网用户中心重新复制链接。同一订阅可在允许的设备数量内使用，超出后最早连接的设备可能被踢下线。</p></details><details><summary>如何确认自己访问的是 Eruca 官方网站？</summary><p>请核对浏览器地址栏为官方域名，不要通过搜索引擎不明链接或社交群分享的短链进入。所有支付与订阅仅在官网完成后台操作。</p></details></section><div class=\"ad\">广告合作：欢迎相关网络工具、教程站点与 Eruca 交换友情链接，共同为用户提供优质加速体验。</div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© Eruca 官方网站 保留所有权利 · VPN加速器与机场订阅服务提供商</p><p class=\"links\">友情链接：<a href=\"#\">网络加速资讯</a> · <a href=\"#\">客户端使用教程</a> · <a href=\"#\">隐私与安全指南</a></p><p><a href=\"#\">网站地图</a> · <a href=\"#\">服务条款</a> · <a href=\"#\">联系我们</a></p></footer>",
+          "hash": "58a7cf433785dd02daa65bcbcdcb32ee860bf189ef2631985e52e290ee70ccef",
+          "seo": {
+            "title": "Eruca 官方网站 - 高速VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "Eruca,Eruca官方网站,Eruca VPN,Eruca机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "Eruca 是专注于VPN梯子与机场订阅的官方网站，提供高速稳定的网络加速服务、多平台客户端下载以及详细配置流程，助您轻松解锁全球内容。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pxxmc.cn",
+    "host": "p-a5c8b4c1c5.pxxmc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "pxxmc.cn",
+      "url": "https://pxxmc.cn/",
+      "label": "艾可云(V2AKY)",
+      "apex": "pxxmc.cn",
+      "kind": null,
+      "identity": "qnajnq/page-d733015fdf02d350b06f2d96"
+    },
+    {
+      "host": "wj218.com",
+      "url": "https://wj218.com/",
+      "label": "Eruca",
+      "apex": "wj218.com",
+      "kind": null,
+      "identity": "vrwkasw/page-4c426932e2e1b0069167f32b"
+    },
+    {
+      "host": "xn--6cs8d274cjvx.com",
+      "url": "https://xn--6cs8d274cjvx.com/",
+      "label": "Eruca",
+      "apex": "xn--6cs8d274cjvx.com",
+      "kind": null,
+      "identity": "jwkhnv/page-efdadb8f75f200fda90432e2"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "048d543afa66fa9f3c58311d96553f73f9601b31e174a47a049a236c7bd41b2f",
+    "sitemap.xml": "dd1f04591c705494242d812e3d021269ca4081c4ab24e697e97fe06736cad80f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "68beb5489353153c5577a0658f7854feb76cef0bc909a1b635c0cbb52127defd",
+    "robots.txt": "18b1d2bf1df843bc5e77b59a46006f98970f5b6b65b80e7d24ded4ea59a14cf5",
+    "ed307285aca26ad5b29d5a0e993fca51.txt": "1444f5232335f1736992aead2c1a32a9eb6cbed5cd1f9bda3c9daf06c46ee44d"
+  },
+  "revision": "4fa8da2bc99e0d7a0923a319c307562be6dad69950e2487ffef4d19f41f01224"
+}
